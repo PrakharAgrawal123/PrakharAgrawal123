@@ -1,61 +1,76 @@
-#           👋 Hey there! I'm Prakhar Agrawal
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=👋+Hey+there!+I'm+Prakhar+Agrawal;🚀+BCA+Student+%7C+Web+Developer;📊+Aspiring+Data+Scientist;✨+Always+learning+new+things" alt="Typing SVG" />
+</p>
 
-🎓 **BCA Student | Web Developer | Aspiring Data Scientist**
-
----
-
-## ✨ About Me
-
-- 💻 I enjoy building user-friendly web applications and exploring data-driven solutions.
-- 📈 Currently learning **Full Stack Web Development, Python**, and **Data Science**.
-- 🎯 Passionate about solving real-world problems with code.
-- 🌟 Always open to **collaboration**, **internships**, and **new learning opportunities**.
-
----
-
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<!-- Social badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PrakharAgrawal123&label=Profile%20views&color=F75C7E&style=flat" alt="views" />
+  <img src="https://img.shields.io/github/followers/PrakharAgrawal123?logo=github&style=flat&color=yellow" alt="followers" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## ✨ About Me  
+
+- 💻 I love creating **modern web apps** & exploring **data-driven solutions**.  
+- 🌱 Currently learning **Full Stack Development, Python, and Data Science**.  
+- 🎯 Passion: solving **real-world problems with code**.  
+- 🌟 Open for **collaborations, internships, and exciting projects**.  
+
+---
+
+## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrakharAgrawal123&show_icons=true&theme=radical" alt="Prakhar's GitHub Stats" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,figma&perline=6" />
 </p>
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PrakharAgrawal123&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrakharAgrawal123&theme=tokyonight&hide_border=true" height="160px"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrakharAgrawal123&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PrakharAgrawal123&theme=radical" alt="Prakhar's GitHub Streak" />
-</p>
-
----
-
-
-
-## 🤝 Connect with Me
-
-<p>
-  <a href="mailto:agrawalprakhar931@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://github.com/PrakharAgrawal123/BrainVibeQuizApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrakharAgrawal123&repo=BrainVibeQuizApp&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://www.linkedin.com/in/prakhar-agrawal-85a9b2328">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://github.com/PrakharAgrawal123/MediCare">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrakharAgrawal123&repo=MediCare&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 ---
 
-## 🔥 Keep Learning, Keep Coding!
+## 🤝 Connect with Me  
 
-> *“Code is like humor. When you have to explain it, it’s bad.” — Cory House*
-
-🌟 *Thanks for visiting my profile!*
+<p align="center">
+  <a href="mailto:agrawalprakhar931@gmail.com"><img src="https://img.shields.io/badge/Gmail-FC4343?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/prakhar-agrawal-85a9b2328"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
+
+## 🔥 Quote to Live By  
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
+</p>
+
+---
+
+<p align="center">
+  🌟 Thanks for visiting my profile! Keep learning, keep coding 🚀
+</p>
