@@ -24,11 +24,7 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PrakharAgrawal123&show_icons=true&theme=radical" alt="Prakhar's GitHub Stats" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=PrakharAgrawal123&theme=radical" alt="GitHub Streak" height="180"/>
-</p>
+
 
 ---
 
