@@ -1,41 +1,49 @@
 # 👋 Hey there! I'm **Prakhar Agrawal**
 
-🎓 **BCA Student | Web Developer | Aspiring Data Scientist**
+🎓 **BCA Student | Web Developer | Aspiring Data Scientist**  
 🌍 Passionate about building impactful digital experiences and data-driven solutions.
 
 ---
 
 ## ✨ About Me
-- 💻 I love creating user-friendly web applications and exploring the world of Data Science.
+- 💻 I enjoy creating user-friendly web applications and exploring the field of Data Science.
 - 📈 Currently learning **Full Stack Web Development**, **Python**, and **Data Science**.
-- 🎯 Focused on solving real-world problems through technology.
-- 🤝 Open to **collaboration**, **internships**, and **new learning opportunities**.
+- 🎯 Focused on solving real-world problems using technology and data.
+- 🤝 Open to **collaborations**, **internships**, and **new learning opportunities**.
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
+## 🧩 Skills & Tech Stack
+
+### 💻 Languages
+- **Python**
+- **Java**
+- **HTML, CSS, JavaScript** 
+
+### 📊 Data & Machine Learning
+- **NumPy, Pandas**
+- **Matplotlib, Seaborn**
+- *(Learning)* **Streamlit**
+
+### 🛠 Tools
+- **Git & GitHub**
+- **VS Code**
+- **Jupyter Notebook**
+- **Google Colab**
 
 ---
-
 
 
 ---
 
 ## 🤝 Connect with Me
 <p align="center">
-<a href="mailto:agrawalprakhar931@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://www.linkedin.com/in/prakhar-agrawal-85a9b2328">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+  <a href="mailto:agrawalprakhar931@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/prakhar-agrawal-85a9b2328">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
