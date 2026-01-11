@@ -7,7 +7,7 @@
 
 ## ✨ About Me
 - 💻 I enjoy creating user-friendly web applications and exploring the field of Data Science.
-- 📈 Currently learning **Full Stack Web Development**, **Python**, and **Data Science**.
+- 📈 Currently learning  **Python**, **Data Structure & Algorithms** and **Machine Learning**
 - 🎯 Focused on solving real-world problems using technology and data.
 - 🤝 Open to **collaborations**, **internships**, and **new learning opportunities**.
 
