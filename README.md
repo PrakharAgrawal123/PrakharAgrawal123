@@ -15,7 +15,7 @@
 
 ## 🧩 Skills & Tech Stack
 
-### 💻 Languages
+### 💻 Languages 
 - **Python**
 - **Java**
 - **HTML, CSS, JavaScript** 
