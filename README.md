@@ -1,129 +1,162 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,30:0d0221,60:0a0a2e,100:000000&height=300&section=header&text=Prakhar%20Agrawal&fontSize=70&fontColor=c084fc&fontAlignY=45&desc=⟨%20Web%20Dev%20%2F%20Data%20Science%20%2F%20BCA%20Student%20⟩&descSize=20&descFontColor=818cf8&descAlignY=68&animation=twinkling&stroke=6d28d9&strokeWidth=2"/>
+
+<br/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Prakhar%20Agrawal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=BCA%20Student%20%7C%20Web%20Dev%20%7C%20Aspiring%20Data%20Scientist&descSize=18&descAlignY=60&animation=fadeIn" />
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Prakhar+%F0%9F%91%8B;Building+the+web%2C+one+line+at+a+time+%F0%9F%92%BB;Exploring+Data+Science+%26+ML+%F0%9F%A4%96;Open+to+collaborate+%26+learn+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<br/>
-
-[![Gmail](https://img.shields.io/badge/Gmail-agrawalprakhar931%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrawalprakhar931@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prakhar%20Agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-agrawal-85a9b2328)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=%24+whoami+%E2%86%92+builder+%7C+learner+%7C+problem-solver;%24+status+%E2%86%92+open+to+internships+%26+collabs+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<img align="right" width="340" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation"/>
 
-```python
-class Prakhar:
-    name       = "Prakhar Agrawal"
-    degree     = "BCA (Bachelor of Computer Applications)"
-    location   = "India 🇮🇳"
-    focus      = ["Web Development", "Data Science", "Machine Learning"]
-    learning   = ["Python", "DSA", "ML Algorithms", "Streamlit"]
-    fun_fact   = "I debug with coffee ☕ and solve bugs with stubbornness 🔥"
-    goals      = "Build impactful, data-driven digital experiences"
+### `> whoami`
+
+```yaml
+name:        "Prakhar Agrawal"
+degree:      "BCA — Bachelor of Computer Applications"
+country:     "India 🇮🇳"
+timezone:    "IST (UTC +5:30)"
+
+currently:
+  - "Building full-stack web apps 🌐"
+  - "Mastering DSA & Python 🐍"
+  - "Diving deep into ML & AI 🤖"
+
+seeking:
+  - "Internships"
+  - "Open Source Contributions"
+  - "Meaningful Collaborations"
+
+when_not_coding:
+  - "Exploring new tech 🔭"
+  - "Breaking & fixing things 🔧"
+  - "Probably drinking chai ☕"
 ```
-
-<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-- 🎓 Pursuing **BCA** — merging code & creativity
-- 🌱 Currently deep-diving into **ML & DSA**
-- 🧠 Love solving real-world problems with data
-- 🤝 Open to **internships**, **collaborations** & **cool projects**
-- ✨ Believer in clean code, clear thinking, and constant growth
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+### `> skill_matrix --show-all`
 
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-### 📊 Data Science & ML
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-3A7FBF?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
+**⟨ Frontend ⟩**
 
-### 🧰 Tools & Environment
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>
-</p>
+![HTML](https://img.shields.io/badge/HTML5-★★★★★-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=1a1a2e)
+![CSS](https://img.shields.io/badge/CSS3-★★★★☆-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=1a1a2e)
+![JavaScript](https://img.shields.io/badge/JavaScript-★★★☆☆-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=1a1a2e)
 
----
+**⟨ Languages ⟩**
 
-## 📈 GitHub Stats
+![Python](https://img.shields.io/badge/Python-★★★★☆-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e)
+![Java](https://img.shields.io/badge/Java-★★★☆☆-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=1a1a2e)
 
-<div align="center">
+</td>
+<td valign="top" width="50%">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&border_radius=12"/>
+**⟨ Data & ML ⟩**
 
-</div>
+![NumPy](https://img.shields.io/badge/NumPy-★★★★☆-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=1a1a2e)
+![Pandas](https://img.shields.io/badge/Pandas-★★★★☆-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=1a1a2e)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-★★★☆☆-11557C?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e)
+![Streamlit](https://img.shields.io/badge/Streamlit-Learning...-FF4B4B?style=flat-square&logo=streamlit&logoColor=white&labelColor=1a1a2e)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&border_radius=12" height="180em"/>
-</div>
+**⟨ Tools ⟩**
+
+![Git](https://img.shields.io/badge/Git-★★★★☆-F05032?style=flat-square&logo=git&logoColor=white&labelColor=1a1a2e)
+![VSCode](https://img.shields.io/badge/VS%20Code-★★★★★-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=1a1a2e)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
----
-
-## 🌊 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&hide_border=true" />
-</div>
-
----
-
-## 💬 Quote That Drives Me
+### `> github_stats --detailed`
 
 <div align="center">
 
-> *"Code is like humor. When you have to explain it, it's bad."*
-> — **Cory House**
+<a href="https://github.com/YOUR_USERNAME">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0&ring_color=7c3aed&count_private=true" />
+</a>
+<a href="https://github.com/YOUR_USERNAME">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=c084fc&text_color=e2e8f0&langs_count=8" />
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true&background=0d0221&ring=c084fc&fire=f472b6&currStreakLabel=a78bfa&dates=64748b&stroke=6d28d9" height="175"/>
 
 </div>
 
 ---
 
+### `> trophy_case --full`
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1" />
+</div>
+
+---
+
+### `> activity_graph --last-year`
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d0221&color=a78bfa&line=7c3aed&point=f472b6&area=true&area_color=6d28d9&hide_border=true" />
+</div>
+
+---
+
+### `> current_mission`
+
+```
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   📚  Mastering Data Structures & Algorithms         ║
+║   🤖  Building my first ML project                   ║
+║   🌐  Sharpening full-stack web dev skills           ║
+║   🚀  Preparing for internship season                ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+---
+
 <div align="center">
 
-### 🚀 Let's Build Something Amazing Together!
+### `> ./connect.sh`
 
-[![Gmail](https://img.shields.io/badge/Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrawalprakhar931@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-agrawal-85a9b2328)
+<a href="mailto:agrawalprakhar931@gmail.com">
+<img src="https://img.shields.io/badge/──%20Gmail%20──-agrawalprakhar931%40gmail.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d0221"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/prakhar-agrawal-85a9b2328">
+<img src="https://img.shields.io/badge/──%20LinkedIn%20──-Prakhar%20Agrawal-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d0221"/>
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=7c3aed&style=for-the-badge)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+> *"First, solve the problem. Then, write the code."*
+> — **John Johnson**
+
+<br/>
+
+**`[ Keep building. Keep breaking. Keep learning. ]`**
 
 </div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a2e,100:050510&height=120&section=footer"/>
