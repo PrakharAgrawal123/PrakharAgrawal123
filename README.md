@@ -77,15 +77,15 @@ class Prakhar:
 
 <div align="center">
 
-<!-- ⚠️ Replace YOUR_GITHUB_USERNAME with your actual GitHub username in all links below -->
+<!-- ⚠️ Replace PrakharAgrawal123 with your actual GitHub username in all links below -->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrakharAgrawal123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharAgrawal123&layout=compact&theme=tokyonight&border_radius=12"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&border_radius=12" height="180em"/>
+<img src="https://streak-stats.demolab.com/?user=PrakharAgrawal123&theme=tokyonight&border_radius=12" height="180em"/>
 
 </div>
 
@@ -95,7 +95,7 @@ class Prakhar:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrakharAgrawal123&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -121,7 +121,7 @@ class Prakhar:
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=👁️+Profile+Views&color=7c3aed&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=PrakharAgrawal123&label=👁️+Profile+Views&color=7c3aed&style=for-the-badge)
 
 <br/><br/>
 
