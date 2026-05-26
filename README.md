@@ -9,7 +9,7 @@
 <br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-agrawalprakhar931%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrawalprakhar931@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prakhar%20Agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-agrawal-85a9b2328)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prakhar%20Agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-agrawal-dev/)
 
 </div>
 
@@ -17,24 +17,28 @@
 
 ## 🧑‍💻 About Me
 
+<img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+<br/>
+
+🎓 &nbsp;Pursuing **BCA** — merging code & creativity  
+🌱 &nbsp;Currently deep-diving into **ML & DSA**  
+🧠 &nbsp;Love solving real-world problems with data  
+🤝 &nbsp;Open to **internships**, **collaborations** & **cool projects**  
+📍 &nbsp;Based in **India 🇮🇳**  
+☕ &nbsp;I debug with coffee and solve bugs with stubbornness 🔥  
+✨ &nbsp;Believer in clean code, clear thinking, and constant growth  
+
+<br/>
+
 ```python
 class Prakhar:
-    name       = "Prakhar Agrawal"
-    degree     = "BCA (Bachelor of Computer Applications)"
-    location   = "India 🇮🇳"
-    focus      = ["Web Development", "Data Science", "Machine Learning"]
-    learning   = ["Python", "DSA", "ML Algorithms", "Streamlit"]
-    fun_fact   = "I debug with coffee ☕ and solve bugs with stubbornness 🔥"
-    goals      = "Build impactful, data-driven digital experiences"
+    degree   = "BCA (Bachelor of Computer Applications)"
+    focus    = ["Web Development", "Data Science", "Machine Learning"]
+    learning = ["Python", "DSA", "ML Algorithms", "Streamlit"]
+    goals    = "Build impactful, data-driven digital experiences"
+    motto    = "Keep Learning. Keep Building. Keep Growing. 🚀"
 ```
-
-<img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-- 🎓 Pursuing **BCA** — merging code & creativity
-- 🌱 Currently deep-diving into **ML & DSA**
-- 🧠 Love solving real-world problems with data
-- 🤝 Open to **internships**, **collaborations** & **cool projects**
-- ✨ Believer in clean code, clear thinking, and constant growth
 
 <br clear="right"/>
 
@@ -43,26 +47,30 @@ class Prakhar:
 ## 🛠️ Tech Stack & Skills
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js&theme=dark" />
+</p>
 
 ### 📊 Data Science & ML
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3A7FBF?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3A7FBF?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
 
 ### 🧰 Tools & Environment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>
+</p>
 
 ---
 
@@ -70,22 +78,16 @@ class Prakhar:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
+<!-- ⚠️ Replace YOUR_GITHUB_USERNAME with your actual GitHub username in all 3 links below -->
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&border_radius=12"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&border_radius=12" height="180em"/>
+<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&border_radius=12" height="180em"/>
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 ---
@@ -93,25 +95,47 @@ class Prakhar:
 ## 🌊 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&hide_border=true" />
+
+<!-- ⚠️ Replace YOUR_GITHUB_USERNAME below -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%"/>
+
 </div>
 
 ---
 
+## 🚀 Let's Connect & Build Together
+
 <div align="center">
-
-### 🚀 Let's Build Something Amazing Together!
-
-[![Gmail](https://img.shields.io/badge/Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrawalprakhar931@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-agrawal-85a9b2328)
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=7c3aed&style=for-the-badge)
 
 <br/>
 
-> *"Code is like humor. When you have to explain it, it's bad."*
-> — **Cory House**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a78bfa&height=3&width=600&section=header" />
+
+<br/><br/>
+
+<a href="mailto:agrawalprakhar931@gmail.com">
+  <img src="https://img.shields.io/badge/📬%20%20Drop%20me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/prakhar-agrawal-85a9b2328">
+  <img src="https://img.shields.io/badge/🤝%20%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=👁️+Profile+Views&color=7c3aed&style=for-the-badge)
+
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center" width="600">
+      <br/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=A78BFA&center=true&vCenter=true&width=500&lines=%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22;%E2%80%94+Cory+House" />
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
