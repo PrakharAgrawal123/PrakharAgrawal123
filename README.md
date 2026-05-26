@@ -55,13 +55,12 @@ class Prakhar:
 ### 📊 Data Science & ML
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-3A7FBF?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3A7FBF?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
 ### 🧰 Tools & Environment
@@ -69,7 +68,7 @@ class Prakhar:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
 ---
@@ -78,7 +77,7 @@ class Prakhar:
 
 <div align="center">
 
-<!-- ⚠️ Replace YOUR_GITHUB_USERNAME with your actual GitHub username in all 3 links below -->
+<!-- ⚠️ Replace YOUR_GITHUB_USERNAME with your actual GitHub username in all links below -->
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
 &nbsp;
@@ -96,8 +95,7 @@ class Prakhar:
 
 <div align="center">
 
-<!-- >
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/PrakharAgrawal123&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -117,7 +115,7 @@ class Prakhar:
   <img src="https://img.shields.io/badge/📬%20%20Drop%20me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/prakhar-agrawal-85a9b2328">
+<a href="https://www.linkedin.com/in/prakhar-agrawal-dev/">
   <img src="https://img.shields.io/badge/🤝%20%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
 </a>
 
