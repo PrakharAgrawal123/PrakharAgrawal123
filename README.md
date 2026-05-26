@@ -96,8 +96,8 @@ class Prakhar:
 
 <div align="center">
 
-<!-- ⚠️ Replace YOUR_GITHUB_USERNAME below -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%"/>
+<!-- >
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/PrakharAgrawal123&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
