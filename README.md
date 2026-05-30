@@ -66,9 +66,9 @@
 ### 🧰 Tools & Environment
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" />
   &nbsp;
-<img src="https://img.icons8.com/color/48/google-colab.png" alt="Google Colab" width="48" height="48" style="border-radius:10px;" />
+<img src="https://img.icons8.com/color/48/google-colab.png" alt="Google Colab" width="48" height="48" />
 </p>
 
 ---
