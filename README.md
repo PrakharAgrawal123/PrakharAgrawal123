@@ -47,9 +47,8 @@
 ## 🛠️ Tech Stack & Skills
 
 ### 💻 Languages
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,nodejs&theme=dark" />
 </p>
 
 ### 📊 Data Science & ML
