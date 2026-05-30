@@ -32,12 +32,12 @@
 <br/>
 
 ```python
-class Prakhar:
-    degree   = "BCA (Bachelor of Computer Applications)"
-    focus    = ["Web Development", "Data Science", "Machine Learning"]
-    learning = ["Python", "DSA", "ML Algorithms", "Streamlit"]
-    goals    = "Build impactful, data-driven digital experiences"
-    motto    = "Keep Learning. Keep Building. Keep Growing. 🚀"
+    Name     = "Prakhar Agrawal"
+    Degree   = "BCA (Bachelor of Computer Applications)"
+    Focus    = ["Data Science", "Data Analysis", "Machine Learning"]
+    Learning = ["Python", "DSA", "ML Algorithms", "Streamlit"]
+    Goals    = "Build impactful, data-driven digital experiences"
+    Motto    = "Keep Learning. Keep Building. Keep Growing. 🚀"
 ```
 
 <br clear="right"/>
@@ -121,7 +121,6 @@ class Prakhar:
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=PrakharAgrawal123&label=👁️+Profile+Views&color=7c3aed&style=for-the-badge)
 
 <br/><br/>
 
