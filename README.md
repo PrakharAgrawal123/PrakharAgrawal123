@@ -68,7 +68,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<img src="https://img.icons8.com/color/48/google-colab.png" alt="Google Colab" width="48" height="48" style="border-radius:10px;" />
 </p>
 
 ---
