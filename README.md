@@ -13,7 +13,7 @@
 
 </div>
 
----
+
 
 ## 🧑‍💻 About Me
 
@@ -88,8 +88,8 @@
 
 </div>
 
----
 
+ 
 ## 🌊 Contribution Graph
 
 <div align="center">
