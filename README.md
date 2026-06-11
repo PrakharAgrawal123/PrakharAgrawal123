@@ -48,7 +48,7 @@
 
 ### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,nodejs,sql&theme=dark" />
 </p>
 
 ### 📊 Data Science & ML
