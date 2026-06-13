@@ -27,7 +27,7 @@
 🤝 &nbsp;Open to **internships**, **collaborations** & **cool projects**  
 📍 &nbsp;Based in **India 🇮🇳**  
 ☕ &nbsp;I debug with coffee and solve bugs with stubbornness 🔥  
-✨ &nbsp;Believer in clean code, clear thinking, and constant growth  
+✨ &nbsp;Believer in clean code, clear thinking, and constant growth 
 
 <br/>
 
