@@ -72,21 +72,7 @@
 
 ---
 
-## 📈 GitHub Stats
 
-<div align="center">
-
-<!-- ⚠️ Replace PrakharAgrawal123 with your actual GitHub username in all links below -->
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrakharAgrawal123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharAgrawal123&layout=compact&theme=tokyonight&border_radius=12"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=PrakharAgrawal123&theme=tokyonight&border_radius=12" height="180em"/>
-
-</div>
 
 
  
