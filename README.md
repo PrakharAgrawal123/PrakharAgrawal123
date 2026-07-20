@@ -1,125 +1,125 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=180&section=header&text=PRAKHAR%20AGRAWAL&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=turning%20data%20into%20decisions%20%E2%80%94%20one%20model%20at%20a%20time&descSize=15&descAlignY=68&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Prakhar%20Agrawal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=BCA%20Student%20%7C%20Web%20Developer%20%7C%20Aspiring%20Data%20Scientist&descSize=18&descAlignY=60&animation=fadeIn" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/BCA%20Student-6C5CE7?style=flat-square" />
-<img src="https://img.shields.io/badge/Data%20Science%20%7C%20ML-00B894?style=flat-square" />
-<img src="https://img.shields.io/badge/Based%20in-India%20%F0%9F%87%AE%F0%9F%87%B3-FD79A8?style=flat-square" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Prakhar+%F0%9F%91%8B;Building+the+web%2C+one+line+at+a+time+%F0%9F%92%BB;Exploring+Data+Science+%26+ML+%F0%9F%A4%96;Open+to+collaborate+%26+learn+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+[![Gmail](https://img.shields.io/badge/Gmail-agrawalprakhar931%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrawalprakhar931@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prakhar%20Agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-agrawal-dev/)
 
 </div>
 
+
+
+## 🧑‍💻 About Me
+
+<img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 <br/>
 
-## → who's this
+🎓 &nbsp;Pursuing **BCA** — merging code & creativity  
+🌱 &nbsp;Currently deep-diving into **ML & DSA**  
+🧠 &nbsp;Love solving real-world problems with data  
+🤝 &nbsp;Open to **internships**, **collaborations** & **cool projects**  
+📍 &nbsp;Based in **India 🇮🇳**  
+☕ &nbsp;I debug with coffee and solve bugs with stubbornness 🔥  
+✨ &nbsp;Believer in clean code, clear thinking, and constant growth 
 
-I'm Prakhar — a BCA student who got tired of just writing code and started asking what the *data* was trying to say. Somewhere between debugging Python at 1 AM and staring at a stubborn regression line, I found the thing I actually want to get good at: **building things that learn from data, not just process it.**
+<br/>
 
+```python
+    Name     = "Prakhar Agrawal"
+    Degree   = "BCA (Bachelor of Computer Applications)"
+    Focus    = ["Data Science", "Data Analysis", "Machine Learning"]
+    Learning = ["Python", "DSA", "ML Algorithms", "Streamlit"]
+    Goals    = "Build impactful, data-driven digital experiences"
+    Motto    = "Keep Learning. Keep Building. Keep Growing. 🚀"
 ```
-current_focus   : Machine Learning + DSA
-building_with   : Python · Pandas · Scikit-learn · Streamlit
-mindset         : ship small, ship often, understand deeply
-open_to         : internships · collab on ML/DS projects · good conversations
-```
 
-<br/>
+<br clear="right"/>
 
-## → what I actually work with
+---
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+## 🛠️ Tech Stack & Skills
 
-**Languages**
+### 💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,nodejs,sql&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark"/>
+### 📊 Data Science & ML
 
-**Data / ML**
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3A7FBF?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn&theme=dark"/> &nbsp;
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+### 🧰 Tools & Environment
 
-</td>
-<td width="50%" valign="top">
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+  &nbsp;
+<img src="https://img.icons8.com/color/48/google-colab.png" alt="Google Colab" width="48" height="48" />
+</p>
 
-**Web**
+---
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,sql&theme=dark"/>
 
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/> &nbsp;
-<img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## → things I've built
-
-> Swap these in with your real repos — this is the section recruiters actually click into.
-
-<table width="100%">
-<tr>
-<td width="50%">
-
-### 📊 [Project Name](https://github.com/PrakharAgrawal123)
-One line on what problem it solves and the impact/result (a number if you have one — "improved accuracy by 12%" beats "used ML").
-
-`Python` `Pandas` `Scikit-learn`
-
-</td>
-<td width="50%">
-
-### 🌐 [Project Name](https://github.com/PrakharAgrawal123)
-Same here — what it does, who it's for, what was hard about building it.
-
-`React` `Node.js` `SQL`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## → github, in numbers
+----
+ 
+## 🌊 Contribution Graph
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PrakharAgrawal123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrakharAgrawal123&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="165"/>
-
-<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrakharAgrawal123&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
-<br/>
+---
 
-## → let's talk
-
-I reply faster to a good question than a generic "hi." Reach out if you're hiring, building something interesting, or just want to nerd out about data.
+## 🚀 Let's Connect & Build Together
 
 <div align="center">
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a78bfa&height=3&width=600&section=header" />
+
+<br/><br/>
+
 <a href="mailto:agrawalprakhar931@gmail.com">
-  <img src="https://img.shields.io/badge/Email-agrawalprakhar931%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📬%20%20Drop%20me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
 </a>
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/prakhar-agrawal-dev/">
-  <img src="https://img.shields.io/badge/LinkedIn-Prakhar%20Agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🤝%20%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
 </a>
 
 <br/><br/>
 
-<sub>Currently learning in public — the messy commits are part of the process, not a bug.</sub>
+
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center" width="600">
+      <br/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=A78BFA&center=true&vCenter=true&width=500&lines=%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22;%E2%80%94+Cory+House" />
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
