@@ -42,7 +42,7 @@
 
 <br clear="right"/>
 
---------
+-----
 
 ## 🛠️ Tech Stack & Skills
 
